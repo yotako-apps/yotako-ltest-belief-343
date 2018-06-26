@@ -1,0 +1,25 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px
+}
+.style0 {
+  background-color: #fff;
+  border-top-left-radius: 13px;
+  border-top-right-radius: 13px;
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
+  display: flex;
+  margin-left: 239px;
+  margin-top: 720px;
+  width: 63px;
+  height: 24px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style1 {
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  height: 13px
+}
